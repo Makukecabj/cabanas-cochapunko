@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cabanas-cochapunko.vercel.app/sitemap.xml
